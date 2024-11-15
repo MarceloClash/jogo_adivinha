@@ -43,4 +43,5 @@ g++ jogo.cpp -o jogo && ./jogo
 
 
 
+
    
